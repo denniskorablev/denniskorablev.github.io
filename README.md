@@ -9,7 +9,7 @@ This website is a curated list of resources about Amazon Sagemaker.
  
  [Pragmatic AI: An Introduction to Cloud-Based Machine Learning (Addison Wesley Data & Analytics)](https://amzn.to/2CcTz6R)
  
- ### MOOC courses
+### MOOC courses
  
  [edX Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)
 
