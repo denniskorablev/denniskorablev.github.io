@@ -11,4 +11,6 @@ This website is a curated list of resources about Amazon Sagemaker.
  
  ### MOOC courses
  
- [edX Amazon SageMaker: Simplifying Machine Learning Application Development]https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker
+ [edX Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)
+
+[fast.ai Practical Deep Learning for Coders, v3](https://course.fast.ai/deployment_amzn_sagemaker.html)
